@@ -1,0 +1,14 @@
+{
+  "name": "Gamers Link Unofficial Fan Guide",
+  "short_name": "GL Fan Guide",
+  "description": "Unofficial fan guide for Gamers Link in Pigeon Forge, Tennessee.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050711",
+  "theme_color": "#050711",
+  "icons": [
+    {"src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

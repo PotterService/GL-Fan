@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.glfan.potterservice.com/sitemap.xml
+Sitemap: https://www.glfan.potterservice.com/sitemap-images.xml
